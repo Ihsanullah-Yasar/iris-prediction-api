@@ -1,0 +1,6 @@
+# Include all runtime dependencies
+-r requirements.txt
+
+# Testing dependencies
+pytest==9.2.0
+httpx>=0.28,<1.0
